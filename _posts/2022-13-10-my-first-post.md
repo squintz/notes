@@ -1,7 +1,6 @@
 ---
 title: My First Post
 author: Squintz
-date: 2022-10-13
 categories: [Blogging, Demo]
 tags: [firsts]
 math: true
