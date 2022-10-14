@@ -1,4 +1,4 @@
-span
+[**Visit: www.squintz.org →**](https://www.squintz.or)
 
 # Squintz's Notes
 
