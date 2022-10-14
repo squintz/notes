@@ -1,7 +1,7 @@
 ---
 title: My First Post
 author: Squintz
-date: 2022-13-08 11:33:00 +0800
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 categories: [Blogging, Demo]
 tags: [firsts]
 math: true
