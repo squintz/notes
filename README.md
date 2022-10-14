@@ -1,12 +1,6 @@
+[**Visit: www.squintz.org →**](https://www.squintz.or)
+
 # Squintz's Notes
-
-<div align="center">
-
-**Visit**
-[**www.squintz.org →**](https://www.squintz.org)
-</br>
-
-</div>
 
 A personal collection of my learnings
 
