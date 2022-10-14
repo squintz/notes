@@ -3,7 +3,6 @@
 <div align="center">
 
 **Visit**
-</br>
 [**www.squintz.org →**](https://www.squintz.org)
 </br>
 
