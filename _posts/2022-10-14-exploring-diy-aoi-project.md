@@ -17,7 +17,7 @@ I'm an electronic technician and my son is in college working on his electrical 
 * [ ] Read the Pick and Place (PNP) files to obtain approximate locations of components.
 * [ ] Read Gerbers to extract exact pad dimensions and locations
 * [ ] Use YOLO to identify component defects
-* [ ] Build or purchase an XYZA table or delta bot if necessary to get images from various angles. 
+* [ ] Build or purchase an XYZA table or delta bot if necessary to get images from various angles.
 
 ## OpenCV Contour Sorting
 
@@ -28,7 +28,7 @@ Resources:
 * [https://cvexplained.wordpress.com/tag/contours/](https://cvexplained.wordpress.com/tag/contours/)
 * [https://stackoverflow.com/questions/69074165/order-of-corners-in-a-rotating-rectangle-in-opencv-python](https://stackoverflow.com/questions/69074165/order-of-corners-in-a-rotating-rectangle-in-opencv-python)
 * [https://imaginghub.com/projects/221-automatic-optical-inspection-of-printed-circuit-boards](https://https://imaginghub.com/projects/221-automatic-optical-inspection-of-printed-circuit-boards)
-* [https://www.bobbaddeley.com/2015/12/06/creating-an-automated-optical-inspector-for-50/]([https://www.bobbaddeley.com/2015/12/06/creating-an-automated-optical-inspector-for-50/)
+* [https://www.bobbaddeley.com/2015/12/06/creating-an-automated-optical-inspector-for-50/](https://www.bobbaddeley.com/2015/12/06/creating-an-automated-optical-inspector-for-50/)
 
 ## PCB Files
 

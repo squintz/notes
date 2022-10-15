@@ -1,0 +1,10 @@
+From note directory run
+    bundle exec jekyll s
+
+Open a browser to:
+    http://127.0.0.1:4000/
+
+Note: you don't have to re-run the command with every change. Just leave the server running and you'll notice Regenerating: messages as you make changes. 
+
+Note: if the site stops rendering on the internet but you didn't change anything that would break it...
+check http vs https in the URL and if it's not working with https then go to github settings and click the force https box.
