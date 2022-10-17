@@ -14,7 +14,6 @@ netstat -aon | findstr "4000"
 
 ```
 
-```
 
 Returns the Following process IDs in the right column
 
