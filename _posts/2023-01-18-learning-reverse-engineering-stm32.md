@@ -7,5 +7,9 @@ math: true
 mermaid: true
 ---
 
-## Learning Bare Metal STM32 Reverse Engineering
+# Thumb Assembly
+
+```
+.cpu 
+```
 
