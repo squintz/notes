@@ -34,15 +34,16 @@ Install from Boards Manager STM32 MCU based board by STMicroelectroncis. I was r
 
 ```
 #include
+
 void setup() {
-Serial.begin(115200); // Initialize the serial communication
+    Serial.begin(115200); // Initialize the serial communication
 }
 
 void loop() {
-// Nothing to do here
-delay(100);
-Serial.println("Hello, World!");
-}
+    // Nothing to do here
+    delay(100);
+    Serial.println("Hello, World!");
+    }
 ```
 
 
