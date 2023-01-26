@@ -45,5 +45,4 @@ void loop() {
 }
 ```
 
-I know right! I was shocked too that the Arduino code to print hello world over USB was this simple.
-
+I know right! I was shocked too that the Arduino code to print hello world over USB was this simple. Now I know the hardware is fine.
