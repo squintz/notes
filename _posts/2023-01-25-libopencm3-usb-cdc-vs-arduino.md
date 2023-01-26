@@ -16,7 +16,8 @@ Could not get our custom STM32F103C8t6 based device to enumerate in windows or l
 I'm running Arduino 1.8.15 because I was too lazy to upgrade
 
 Add the following to the Preference
-```https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json```
+
+`https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json`
 
 Install from Boards Manager STM32 MCU based board by STMicroelectroncis. I was running version 2.10
 
