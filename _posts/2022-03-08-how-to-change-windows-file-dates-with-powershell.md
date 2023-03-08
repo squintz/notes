@@ -23,3 +23,8 @@ Using PowerShell and the following commands it's possible to change the "Date Mo
 ```
 $(Get-ChildItem example_filed_name.txt).CreationTime=$(Get-Date "03/08/23 12:00")
 ```
+
+## Date Created
+```
+$(Get-ChildItem example_filed_name.txt).CreationTime=$(Get-Date "03/08/23 12:00")
+```
